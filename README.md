@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farhankabirsifat
 - 👀 I’m a CSE student.
-- 🌱 I’m currently learning about IOT,AI & Cyber security.
+- 🌱 I’m currently learning about IOT,AI & Robotics.
 
 <!---
 farhankabirsifat/farhankabirsifat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
